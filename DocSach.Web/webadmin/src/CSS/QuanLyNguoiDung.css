@@ -1,0 +1,35 @@
+.quanly-nguoidung {
+  padding: 20px;
+}
+
+.quanly-nguoidung table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.quanly-nguoidung th,
+.quanly-nguoidung td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.quanly-nguoidung th {
+  background-color: #f3f4f6;
+}
+
+.avatar-small {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.chi-tiet-btn {
+  text-decoration: none;
+  color: #2563eb;
+  font-weight: bold;
+}
+
+.chi-tiet-btn:hover {
+  text-decoration: underline;
+}

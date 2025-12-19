@@ -1,0 +1,25 @@
+.chitiet-nguoidung {
+  padding: 20px;
+}
+.chitiet-nguoidung .info {
+  display: flex;
+  gap: 20px;
+}
+.chitiet-nguoidung .avatar img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.chitiet-nguoidung .details p {
+  margin: 5px 0;
+}
+.back-button {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #2563eb;
+  font-weight: bold;
+}
+.back-button:hover {
+  text-decoration: underline;
+}
