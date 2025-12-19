@@ -1,0 +1,30 @@
+# node
+node_modules/
+npm-debug.log*
+
+# expo / react native
+.expo/
+.expo-shared/
+
+# env
+.env
+.env.local
+
+# android
+android/.gradle/
+android/build/
+
+# ios
+ios/Pods/
+
+# build
+dist/
+build/
+bin/
+obj/
+
+# visual studio
+.vs/
+
+# firebase key
+serviceAccountKey.json
